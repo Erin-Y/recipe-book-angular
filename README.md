@@ -1,3 +1,6 @@
+#Hosted here
+http://ng-your-recipe-book.s3-website-us-east-1.amazonaws.com/
+
 # PrjStart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
