@@ -1,5 +1,5 @@
 #Hosted here
-http://ng-your-recipe-book.s3-website-us-east-1.amazonaws.com/
+http://ng-your-recipe-book.s3-website-us-east-1.amazonaws.com/recipes/
 
 # PrjStart
 
